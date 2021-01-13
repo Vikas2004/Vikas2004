@@ -22,4 +22,5 @@ Hi, I am Vikas Baswapuram. I did my undergraduation in Electrical and Electronic
 1. Leadership skills.
 
 ## Connections:
-1. LinkedIn<img src="https://raw.githubusercontent.com/soroushchehresa/github-readme-linkedin/master/linkedin-github.png"/>: https://www.linkedin.com/in/baswapuram-vikas-b6705a10a/
+1. LinkedIn: https://www.linkedin.com/in/baswapuram-vikas-b6705a10a/
+1. GitHub: https://github.com/Vikas2004
